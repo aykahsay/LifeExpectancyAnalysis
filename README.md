@@ -1,7 +1,5 @@
 # Life Expectancy Analysis
 
-# Life Expectancy Analysis
-
 ## Overview
 This project analyzes life expectancy trends across different countries over time using Python. The analysis includes data cleaning, exploratory data analysis (EDA), visualization, and comparative insights.
 
@@ -57,6 +55,3 @@ This project analyzes life expectancy trends across different countries over tim
    ```
 2. Run the Jupyter Notebook or Python script to execute the analysis.
 
-## Author
-- **[Your Name]**  
-- **Contact:** [Your Email]
